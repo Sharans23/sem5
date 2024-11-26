@@ -1,0 +1,15 @@
+1) Commands  
+2) Bit stuffing  done                                 done   done
+2) byte stuufing  done                                done   done
+2) char count     done                                done   done
+3) hamming code   done  use hamming code from dev     done   done
+3) crc        done   use CRCDev                       done   done
+4) goback        done                                 done   done
+4) selective repeat   partially done                  done   done
+5) subnet    done                                     done   done
+6) bellman ford   done use bellmanford easy           done   done
+6) dijlstra    done use dijkstraEasy                  done   done
+7) RIP using cisco  done use shridar sirs video       done   done
+9) stop & wait
+10) Leaky Bucket done
+10) Token bucket 
